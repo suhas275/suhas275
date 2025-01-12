@@ -1,6 +1,6 @@
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suhas275&theme=tokyonight border=true)](https://git.io/streak-stats)
 
