@@ -29,17 +29,17 @@ Currently focused on **backend engineering, cloud infrastructure, and system des
 <br/>
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhas275&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=suhas275&theme=default)
 
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhas275&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhas275&show_icons=true&theme=default&cache_seconds=1800)
 
 ---
 
 ### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhas275&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhas275&layout=compact&theme=default&cache_seconds=1800)
 
 ---
 
@@ -47,6 +47,7 @@ Currently focused on **backend engineering, cloud infrastructure, and system des
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suhas275&theme=github-compact)
 
 </details>
+
 
 ---
 
